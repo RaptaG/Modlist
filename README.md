@@ -1,7 +1,6 @@
 **WORK IN PROGRESS**
 
 # RaptaG's Modlist
-RaptaG's amazing list of Fabric mods
 
 [FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation)
 
@@ -12,19 +11,19 @@ The following mods are for Quality of Life improvements, tweaks to the vanilla g
 ## Mods
 
 
-#### 1) Quality of Life Improvements
+### 1) Quality of Life Improvements
 
 - 
 
-#### 2) New features
+### 2) New features
 
 -
 
-#### 3) Tweaks
+### 3) Tweaks
 
 -
 
-#### 4) Libraries
+### 4) Libraries
 
 -
 
