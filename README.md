@@ -12,18 +12,22 @@ The following mods are for Quality of Life improvements, tweaks to the vanilla g
 ## Mods
 
 
-### 1) Quality of Life Improvements
+#### 1) Quality of Life Improvements
 
 - 
 
-### 2) New features
+#### 2) New features
 
 -
 
-### 3) Tweaks
+#### 3) Tweaks
 
 -
 
-### 4) Libraries
+#### 4) Libraries
 
 -
+
+
+## Notes
+
