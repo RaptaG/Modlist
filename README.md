@@ -8,3 +8,22 @@ RaptaG's amazing list of Fabric mods
 ### What type of mods are these?
 
 The following mods are for Quality of Life improvements, tweaks to the vanilla game and new features, all friendly to the canilla behaviour. Also, all of the mods are client-side, menaing they will work everywhere, even on servers!
+
+## Mods
+
+
+### 1) Quality of Life Improvements
+
+- 
+
+### 2) New features
+
+-
+
+### 3) Tweaks
+
+-
+
+### 4) Libraries
+
+-
