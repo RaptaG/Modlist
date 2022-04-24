@@ -2,7 +2,7 @@
 
 # RaptaG's Modlist
 
-[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation)
+[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Imporant Notes](https://github.com/RaptaG/Modlist#notes)
 
 ### What type of mods are these?
 
