@@ -39,3 +39,5 @@ There are 2 reasons for that:
 
 ## Notes
 
+- If one of these mods gets added in Fabulously Optimized, it'll be removed from this list.
+
