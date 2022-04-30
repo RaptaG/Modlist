@@ -24,7 +24,7 @@ There are 2 reasons for that:
 
 - 
 
-### 2) New features
+### 2) New features / Minecraft: Bedrock Edition parity
 
 -
 
