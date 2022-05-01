@@ -17,31 +17,20 @@ There are 2 reasons for that:
 
 - These mods can't form a modpack by themselfes they way I want it to. [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) or (not suggested) [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) with [OptiFine](https://optifine.net/downloads) are needed for performance and needed QoL improvements (except from the existing ones)
 
-## Mods
+# Mods
 
-
+```
 ### 1) Quality of Life Improvements
-
-- 
 
 ### 2) New features / Minecraft: Bedrock Edition parity
 
--
-
 ### 3) Tweaks
-
--
-
-### 4) Libraries
-
-- MaLiLib: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib) | [GitHub](https://github.com/maruohon/malilib)**
-  
-  This library is required for KronHUD and MiniHUD to work
-  
-- Iceberg: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) | [GitHub](https://github.com/AHilyard/Iceberg)**
-
-  This library is required for Advancement Plaques to work
-
+```
+## Libraries
+| Name                                                                                | CurseForge | Modrinth | GitHub | Description	|
+|------------------------------------------------------------------------------------|--------|--------|--------|-----------------------------------------------------------|
+| MaLiLib | [✔️](https://www.curseforge.com/minecraft/mc-mods/malilib) | ❌ | [✔️](https://github.com/maruohon/malilib) | Required for KronHUD and MiniHUD |
+| Iceberg | [✔️](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) | ❌ | [✔️](https://github.com/AHilyard/Iceberg) | Required for Advancement Plaques |
 
 ## Notes
 
