@@ -34,7 +34,13 @@ There are 2 reasons for that:
 
 ### 4) Libraries
 
--
+- MaLiLib: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib) | [GitHub](https://github.com/maruohon/malilib)**
+  
+  This library is required for KronHUD and MiniHUD to work
+  
+- Iceberg: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) | [GitHub](https://github.com/AHilyard/Iceberg)**
+
+  This library is required for Advancement Plaques to work
 
 
 ## Notes
