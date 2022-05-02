@@ -26,15 +26,18 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ## Quality of Life Improvements
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
-| 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Advancement Plaques | [✔️](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/AdvancementPlaques) | Adds fancier, glowing advancement popups |
-| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Custom Crosshair | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files) | ❌ | ❌ | Allows you to customize  and give many abilities to your crosshair |
+| Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
 | AppleSkin | [✔️](https://www.curseforge.com/minecraft/mc-mods/appleskin/files) | [✔️](https://modrinth.com/mod/appleskin/versions) | [✔️](https://github.com/squeek502/AppleSkin/releases) | Dispalys saturation, food points and much more food-related info |
 | AutoSwitch | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch/files) | [✔️](https://modrinth.com/mod/autoswitch/versions)| [✔️](https://github.com/dexman545/Fabric-Autoswitch/releases) | Switches to the correct tool to mine each block, from your hotbar |
+| Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more options in the "Key Bind" menu, such as key searching |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -47,7 +50,9 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Armour Chroma | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric/files) | ❌ | [✔️](https://github.com/A5b84/armor-chroma-fabric/releases) | Improves the armour bar by displaying the armour type, the enchantment glint and more! |
 | Better F3 | [✔️](https://www.curseforge.com/minecraft/mc-mods/betterf3/files) | [✔️](https://modrinth.com/mod/betterf3/versions) | [✔️](https://github.com/cominixo/BetterF3/releases) | Adds an animated, colorful, more human-readable debug menu |
 | Chat Heads | [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files) | ❌ | [✔️](https://github.com/dzwdz/chat_heads) | Displays the head of the player in the beggining of a message |
-| Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped, so that the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped, so the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification that shows up in the chat |
+| Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and the icon of Minecraft's window |
 
 ## Libraries
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -62,7 +67,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - **Always** select the Fabric version of each mod
 - If one of these mods gets added in Fabulously Optimized, it'll be removed from this list
 - Some GitHub repositories may be outdated
-- Some GitHub mods may reqiure compilng their source code.
+- Some GitHub mods may reqiure compilng their source code
+- Some GitHub repositories may be closed source
 - Mods with notes will have a number with a link in the end
 
 ### Mod notes
@@ -70,3 +76,4 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - 3D Skin Layers is _slightly_ incompatible with EmoteCraft
 - Blur is **incompatible** with OptiFine
 - Chat Up **works** on all Minecraft versions
+- The provided link for Dynamic Surroundings is a fork that provides support for 1.18.2 (Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
