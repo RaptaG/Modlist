@@ -28,7 +28,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 |-|-|-|-|-|
 | 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 | Advancement Plaques | [✔️](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/AdvancementPlaques) | Adds fancier, glowing advancement popups |
-| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur on behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
