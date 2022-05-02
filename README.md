@@ -19,7 +19,7 @@ There are 2 reasons for that:
 
 ### How do I install the mods?
 
-Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods), [GitHub](https://github.com/topics/fabric-mod))
+Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods), [GitHub](https://github.com/topics/fabric-mod)). Also, all the mods are intented to work in the latest version of the game (earlier version are untested).
 
 # Mods
 
@@ -28,7 +28,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 |-|-|-|-|-|
 | 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 | Advancement Plaques | [✔️](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/AdvancementPlaques) | Adds fancier, glowing advancement popups |
-| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur on all the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur on behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -46,7 +46,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 |-|-|-|-|-|
 | Armour Chroma | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric/files) | ❌ | [✔️](https://github.com/A5b84/armor-chroma-fabric/releases) | Improves the armour bar by displaying the armour type, the enchantment glint and more! |
 | Better F3 | [✔️](https://www.curseforge.com/minecraft/mc-mods/betterf3/files) | [✔️](https://modrinth.com/mod/betterf3/versions) | [✔️](https://github.com/cominixo/BetterF3/releases) | Adds an animated, colorful, more human-readable debug menu |
-
+| Chat Heads | [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files) | ❌ | [✔️](https://github.com/dzwdz/chat_heads) | Displays the head of the player in the beggining of a message |
+| Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped, so that the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 
 ## Libraries
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -61,9 +62,11 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - **Always** select the Fabric version of each mod
 - If one of these mods gets added in Fabulously Optimized, it'll be removed from this list
 - Some GitHub repositories may be outdated
+- Some GitHub mods may reqiure compilng their source code.
 - Mods with notes will have a number with a link in the end
 
 ### Mod notes
 
 - 3D Skin Layers is _slightly_ incompatible with EmoteCraft
 - Blur is **incompatible** with OptiFine
+- Chat Up **works** on all Minecraft versions
