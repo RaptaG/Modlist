@@ -57,7 +57,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification,<br />that shows up in the chat |
 | Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and<br />the icon of Minecraft's window |
 
-## Libraries
+## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
 | Iceberg | [✔️](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/Iceberg) | Required for Advancement Plaques |
@@ -68,6 +68,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ### General
 
 - **Always** select the Fabric version of each mod
+- Before downloading, **always** check if a mod requires a [library mod](https://github.com/RaptaG/Modlist#libraries--apis)
 - If one of these mods gets added in Fabulously Optimized, it'll be removed from this list
 - Some GitHub repositories may be outdated
 - Some GitHub mods may reqiure compilng their source code
