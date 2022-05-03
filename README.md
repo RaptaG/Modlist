@@ -2,7 +2,7 @@
 
 # RaptaG's Modlist
 
-**[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Imporant Notes](https://github.com/RaptaG/Modlist#notes)**
+**[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Imporant Notes](https://github.com/RaptaG/Modlist#general-notes) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md)**
 
 ### What type of mods are these?
 
@@ -50,8 +50,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Armour Chroma | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric/files) | ❌ | [✔️](https://github.com/A5b84/armor-chroma-fabric/releases) | Improves the armour bar by displaying the armour type, the enchantment glint and more! |
 | Better F3 | [✔️](https://www.curseforge.com/minecraft/mc-mods/betterf3/files) | [✔️](https://modrinth.com/mod/betterf3/versions) | [✔️](https://github.com/cominixo/BetterF3/releases) | Adds an animated, colorful, more human-readable debug menu |
 | Chat Heads | [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files) | ❌ | [✔️](https://github.com/dzwdz/chat_heads) | Displays the head of the player in the beggining of a message |
-| Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped, so the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
-| Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification that shows up in the chat |
+| Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped,<br />so the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification,<br />that shows up in the chat |
 | Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and the icon of Minecraft's window |
 
 ## Libraries
@@ -76,4 +76,4 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - 3D Skin Layers is _slightly_ incompatible with EmoteCraft
 - Blur is **incompatible** with OptiFine
 - Chat Up **works** on all Minecraft versions
-- The provided link for Dynamic Surroundings is a fork that provides support for 1.18.2 (Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
+- The provided link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
