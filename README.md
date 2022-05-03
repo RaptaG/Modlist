@@ -6,7 +6,7 @@
 
 ### What type of mods are these?
 
-The following mods are for Quality of Life improvements, tweaks to the vanilla game, mods that provied parity with Minecraft: Bedrock Edition and new features, all friendly to vanilla Minecraft's behaviour. Also, all of the mods are client-side, meaning they will work everywhere, even on servers!
+The following mods are for Quality of Life improvements, tweaks to the vanilla game, mods that provide parity with Minecraft: Bedrock Edition and new features, all friendly to vanilla Minecraft's behaviour. Also, all of the mods are client-side, meaning they will work everywhere, even on servers!
 
 
 ### Why isn't this list a modpack?
