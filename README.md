@@ -29,33 +29,33 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Advancement Plaques | [✔️](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/AdvancementPlaques) | Adds fancier, glowing advancement popups |
 | Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
-| Custom Crosshair | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files) | ❌ | ❌ | Allows you to customize  and give many abilities to your crosshair |
+| Custom Crosshair | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files) | ❌ | ❌ | Allows you to customize<br />and give many abilities to your crosshair |
 | Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Easier Villager Trading | [✔️](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files) | [✔️](https://modrinth.com/mod/easiervillagertrading/versions) | [✔️](https://github.com/gbl/EasierVillagerTrading/releases) | 1 click trade with  villagers |
-| Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra with a press of a key |
+| Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
-| AppleSkin | [✔️](https://www.curseforge.com/minecraft/mc-mods/appleskin/files) | [✔️](https://modrinth.com/mod/appleskin/versions) | [✔️](https://github.com/squeek502/AppleSkin/releases) | Dispalys saturation, food points and much more food-related info |
-| AutoSwitch | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch/files) | [✔️](https://modrinth.com/mod/autoswitch/versions)| [✔️](https://github.com/dexman545/Fabric-Autoswitch/releases) | Switches to the correct tool to mine each block, from your hotbar |
-| Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more options in the "Key Bind" menu, such as key searching |
+| AppleSkin | [✔️](https://www.curseforge.com/minecraft/mc-mods/appleskin/files) | [✔️](https://modrinth.com/mod/appleskin/versions) | [✔️](https://github.com/squeek502/AppleSkin/releases) | Dispalys saturation, food points<br />and much more food-related info |
+| AutoSwitch | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch/files) | [✔️](https://modrinth.com/mod/autoswitch/versions)| [✔️](https://github.com/dexman545/Fabric-Autoswitch/releases) | Switches to the correct tool<br />to mine each block, from your hotbar |
+| Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more optionsin the "Key Bind" menu,<br />such as key searching |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
-| Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click your armour in your hotbar to equip it |
+| Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click<br />your armour in your hotbar to equip it |
 | EmoteCraft | [✔️](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) | [✔️](https://modrinth.com/mod/emotecraft/versions) | [✔️](https://github.com/KosmX/emotes/releases) | In-game emotes |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
-| Armour Chroma | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric/files) | ❌ | [✔️](https://github.com/A5b84/armor-chroma-fabric/releases) | Improves the armour bar by displaying the armour type, the enchantment glint and more! |
-| Better F3 | [✔️](https://www.curseforge.com/minecraft/mc-mods/betterf3/files) | [✔️](https://modrinth.com/mod/betterf3/versions) | [✔️](https://github.com/cominixo/BetterF3/releases) | Adds an animated, colorful, more human-readable debug menu |
-| Chat Heads | [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files) | ❌ | [✔️](https://github.com/dzwdz/chat_heads) | Displays the head of the player in the beggining of a message |
+| Armour Chroma | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric/files) | ❌ | [✔️](https://github.com/A5b84/armor-chroma-fabric/releases) | Improves the armour bar by displaying the armour type,<br />the enchantment glint and more! |
+| Better F3 | [✔️](https://www.curseforge.com/minecraft/mc-mods/betterf3/files) | [✔️](https://modrinth.com/mod/betterf3/versions) | [✔️](https://github.com/cominixo/BetterF3/releases) | Adds an animated, colorful,<br />more human-readable debug menu |
+| Chat Heads | [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files) | ❌ | [✔️](https://github.com/dzwdz/chat_heads) | Displays the head of the player<br />in the beggining of a message |
 | Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped,<br />so the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification,<br />that shows up in the chat |
-| Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and the icon of Minecraft's window |
+| Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and<br />the icon of Minecraft's window |
 
 ## Libraries
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -77,6 +77,6 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ### Mod notes
 
 - 3D Skin Layers is _slightly_ incompatible with EmoteCraft
-- Blur is **incompatible** with OptiFine
+- Blur is **incompatible** with OptiFine Shaders
 - Chat Up **works** on all Minecraft versions
-- The provided link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
+- The link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
