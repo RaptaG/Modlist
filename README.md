@@ -6,7 +6,7 @@
 
 ### What type of mods are these?
 
-The following mods are for Quality of Life improvements, tweaks to the vanilla game and new features, all friendly to vanilla Minecraft's behaviour. Also, all of the mods are client-side, meaning they will work everywhere, even on servers!
+The following mods are for Quality of Life improvements, tweaks to the vanilla game, mods that provied parity with Minecraft: Bedrock Edition and new features, all friendly to vanilla Minecraft's behaviour. Also, all of the mods are client-side, meaning they will work everywhere, even on servers!
 
 
 ### Why isn't this list a modpack?
@@ -15,7 +15,7 @@ There are 2 reasons for that:
 
 - I don't have the time to keep a modpack up-to-date with the latest mod versions
 
-- These mods can't form a modpack by themselfes they way I want it to. [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) or (not suggested) [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) with [OptiFine](https://optifine.net/downloads) are needed for performance and needed QoL improvements (except from the existing ones)
+- These mods can't form a modpack by themselfes they way I want it to. [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) or (not suggested) [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) with [OptiFine](https://optifine.net/downloads) are needed for performance and important QoL improvements (except from the existing ones)
 
 ### How do I install the mods?
 
