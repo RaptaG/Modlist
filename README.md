@@ -1,5 +1,4 @@
-**WORK IN PROGRESS**
-
+**[WORK IN PROGRESS]**
 # RaptaG's Modlist
 
 **[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md) || [Credits](https://github.com/RaptaG/Modlist/blob/main/CREDITS.md) || [Troubleshooting](https://github.com/RaptaG/Modlist/blob/main/TROUBLESHOOTING.md) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Notes](https://github.com/RaptaG/Modlist#general-notes)**
