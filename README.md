@@ -2,7 +2,7 @@
 
 # RaptaG's Modlist
 
-**[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Imporant Notes](https://github.com/RaptaG/Modlist#general-notes) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md)**
+**[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md) || [Credits](https://github.com/RaptaG/Modlist/blob/main/CREDITS.md) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/Mods-and-custom-configurations) || [QuiltMC with my modlist](https://github.com/RaptaG/Modlist/wiki/The-QuiltMC-situation) || [Imporant Notes](https://github.com/RaptaG/Modlist#general-notes)**
 
 ### What type of mods are these?
 
@@ -19,7 +19,7 @@ There are 2 reasons for that:
 
 ### How do I install the mods?
 
-Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods), [GitHub](https://github.com/topics/fabric-mod)). Also, all the mods are intented to work in the latest version of the game (earlier version are untested).
+Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods), [GitHub](https://github.com/topics/fabric-mod)). Also, all the mods are intented to work in the latest version of the game (earlier versions are untested).
 
 # Mods
 
