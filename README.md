@@ -40,6 +40,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | AppleSkin | [✔️](https://www.curseforge.com/minecraft/mc-mods/appleskin/files) | [✔️](https://modrinth.com/mod/appleskin/versions) | [✔️](https://github.com/squeek502/AppleSkin/releases) | Dispalys saturation, food points<br />and much more food-related info |
 | AutoSwitch | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch/files) | [✔️](https://modrinth.com/mod/autoswitch/versions)| [✔️](https://github.com/dexman545/Fabric-Autoswitch/releases) | Switches to the correct tool<br />to mine each block, from your hotbar |
 | Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more optionsin the "Key Bind" menu,<br />such as key searching |
+| Enhanced Attack Indicator | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files) | [✔️](https://modrinth.com/mod/enhanced-attack-indicator/versions)| [✔️](https://github.com/Minenash/Enhanced-Attack-Indicator/releases) | Gives more functions to the attack indicator |
+| Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | ❌ | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
