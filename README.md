@@ -61,8 +61,11 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
+| Cloth Config API | [✔️](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files) | [✔️](https://modrinth.com/mod/cloth-config/versions) | [✔️](https://github.com/shedaniel/cloth-config) | Needed  for configuring the mods in-game, with Mod Menu | 
+| Fabric API | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files) | [✔️](https://modrinth.com/mod/fabric-api/versions) | [✔️](https://github.com/FabricMC/fabric/releases) | The Fabric API, needed for almost every mod in this list to work |
 | Iceberg | [✔️](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/Iceberg) | Required for Advancement Plaques |
 | MaLiLib | [✔️](https://www.curseforge.com/minecraft/mc-mods/malilib/files) | ❌ | [✔️](https://github.com/maruohon/malilib) | Required for KronHUD and MiniHUD |
+| Mod Menu | [✔️](https://www.curseforge.com/minecraft/mc-mods/modmenu/files) | [✔️](https://github.com/TerraformersMC/ModMenu/releases) | [✔️](https://modrinth.com/mod/modmenu/versions) | Adds the mod menu |
 
 ## Notes
 
