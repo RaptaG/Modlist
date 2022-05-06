@@ -27,9 +27,9 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 |-|-|-|-|-|
 | 3D Skin Layers | [✔️](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files) | ❌ | [✔️](https://github.com/tr7zw/3d-Skin-Layers) | Renders player skins in 3D [<sup>1</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Advancement Plaques | [✔️](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/AdvancementPlaques) | Adds fancier, glowing advancement popups |
-| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur<br />behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Custom Crosshair | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files) | ❌ | ❌ | Allows you to customize<br />and give many abilities to your crosshair |
-| Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual,<br />and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Easier Villager Trading | [✔️](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files) | [✔️](https://modrinth.com/mod/easiervillagertrading/versions) | [✔️](https://github.com/gbl/EasierVillagerTrading/releases) | 1 click trade with  villagers |
 | Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key |
 
