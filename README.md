@@ -47,6 +47,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 |-|-|-|-|-|
 | Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click<br />your armour in your hotbar to equip it |
 | EmoteCraft | [✔️](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) | [✔️](https://modrinth.com/mod/emotecraft/versions) | [✔️](https://github.com/KosmX/emotes/releases) | In-game emotes |
+| Fabulous Clouds | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabulous-clouds/files) | [✔️](https://modrinth.com/mod/fabulousclouds/versions) | [✔️](https://github.com/misterslime/fabulousclouds-fabric/releases) | Tinting clouds on sunrise/sunset and more! |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
