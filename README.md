@@ -32,6 +32,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual,<br />and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Easier Villager Trading | [✔️](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files) | [✔️](https://modrinth.com/mod/easiervillagertrading/versions) | [✔️](https://github.com/gbl/EasierVillagerTrading/releases) | 1 click trade with  villagers |
 | Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key |
+| Falling Leaves | [✔️](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric/files) | [✔️](https://modrinth.com/mod/fallingleaves/versions) | [✔️](https://github.com/RandomMcSomethin/fallingleaves) | Adds some small leaf particles, which fall from leaves! |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -41,6 +42,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more optionsin the "Key Bind" menu,<br />such as key searching |
 | Enhanced Attack Indicator | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files) | [✔️](https://modrinth.com/mod/enhanced-attack-indicator/versions)| [✔️](https://github.com/Minenash/Enhanced-Attack-Indicator/releases) | Gives more functions to the attack indicator |
 | Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | ❌ | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
+| Freelook | [✔️](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric/files) | ❌ | [✔️](https://github.com/Celibistrial/freelook) | Allow to rotate your camera 360<sup>o</sup> [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -48,6 +50,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click<br />your armour in your hotbar to equip it |
 | EmoteCraft | [✔️](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) | [✔️](https://modrinth.com/mod/emotecraft/versions) | [✔️](https://github.com/KosmX/emotes/releases) | In-game emotes |
 | Fabulous Clouds | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabulous-clouds/files) | [✔️](https://modrinth.com/mod/fabulousclouds/versions) | [✔️](https://github.com/misterslime/fabulousclouds-fabric/releases) | Tinting clouds on sunrise/sunset and more! |
+| Held Item Info | [✔️](https://www.curseforge.com/minecraft/mc-mods/held-item-info/files) | ❌ | [✔️](https://github.com/A5b84/held-item-info/releases) | Displays item info when swapping them in the hotbar<br />(eg. enchantments) |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -58,6 +61,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Chat Up |  [✔️](https://www.curseforge.com/minecraft/mc-mods/chat-up/files) | ❌ | [✔️](https://github.com/gnembon/chat-up/releases) | Moves the chat 10 pixels higher when armour is equiped,<br />so the armour bar won't be overidden by it [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Clickable Advancements | [✔️](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/files) | ❌ | [✔️](https://github.com/someaddons/ClickableAdvancements) | Allows you to click the advancement notification,<br />that shows up in the chat |
 | Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and<br />the icon of Minecraft's window |
+| Inventory HUD+ | [✔️](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files) | ❌ | ❌ | Displays inventory info in the HUD |
+| KronHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/kronhud/files) | [✔️](https://modrinth.com/mod/kronhud/versions) | [✔️](https://github.com/DarkKronicle/KronHUD) | Adds some info in the HUD, like Lunar Client! |
 
 ## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -86,3 +91,4 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - Blur is **incompatible** with OptiFine Shaders
 - Chat Up **works** on all Minecraft versions
 - The link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
+- Using the Freelook mod may kick/ban you in some servers (eg. Hypixel)
