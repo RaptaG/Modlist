@@ -41,6 +41,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | 'Slight' GUI Modifications | [✔️](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications/files) | ❌ | [✔️](https://github.com/shedaniel/slight-gui-modifications) | Adds many GUI animations! |
 | Smooth Scrolling Everywhere | ❌ | ❌ | [✔️](https://github.com/UjhhgtgTeams/SmoothScrollingEverywhere) | Adds smooth scrolling in every Minecraft list [<sup>7</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
 | Smooth Swapping | [✔️](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping/files) | [✔️](https://modrinth.com/mod/smooth-swapping/versions) | [✔️](https://github.com/Schauweg/Smooth-Swapping) | Adds smooth swapping when moving inventory items |
+| Wavey Capes | [✔️](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | ❌ | [✔️](https://github.com/tr7zw/WaveyCapes) | Gravity capes! |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -51,8 +52,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Enhanced Attack Indicator | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files) | [✔️](https://modrinth.com/mod/enhanced-attack-indicator/versions)| [✔️](https://github.com/Minenash/Enhanced-Attack-Indicator/releases) | Gives more functions to the attack indicator |
 | Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | ❌ | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
 | Freelook | [✔️](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric/files) | ❌ | [✔️](https://github.com/Celibistrial/freelook) | Allow to rotate your camera 360<sup>o</sup> [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
-| ToroHealth Damage Indicators | [✔️](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files) | ❌  [✔️](https://github.com/ToroCraft/ToroHealth) | Adds player and mod health bars |
-| Wavey Capes | [✔️](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | ❌ | [✔️](https://github.com/tr7zw/WaveyCapes) | Gravity capes! |
+| ToroHealth Damage Indicators | [✔️](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files) | ❌ | [✔️](https://github.com/ToroCraft/ToroHealth) | Adds player and mod health bars |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
