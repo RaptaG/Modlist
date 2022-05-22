@@ -1,0 +1,15 @@
+{
+    "vibrant_clouds": true,
+    "vibrance_intensity": 1.0,
+    "enable_default_cloud_layer": true,
+    "cloud_layers": [
+        {
+            "offset": 64.0,
+            "scale": 1.25,
+            "speed": -1.0
+        }
+    ],
+    "noise_clouds": true,
+    "debug_noise_clouds": false,
+    "offset_cloud_rendering": false
+}

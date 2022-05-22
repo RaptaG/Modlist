@@ -1,0 +1,44 @@
+# Custom Crosshair Mod v1.3.9-fabric
+# Made by Sparkless101
+# ------------------------------------
+# https://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2637819/
+# https://www.curseforge.com/projects/242995/
+# ------------------------------------
+# This config file contains the properties of the crosshair and mod properties. Feel free to edit them.
+# ------------------------------------
+dot_enabled:true
+crosshair_adaptive_colour_enabled:false
+highlight_passive_enabled:true
+crosshair_height:4
+visible_default:true
+outline_enabled:false
+crosshair_style:2
+crosshair_scale:52
+dot_colour:255/255/255/255
+crosshair_keep_debug_enabled:false
+visible_holding_spyglass:false
+mod_enabled:true
+rainbow_enabled:false
+crosshair_width:5
+highlight_hostile_enabled:true
+dynamic_bow_enabled:false
+block_outline_colour:0/0/0/102
+crosshair_thickness:5
+highlight_players_colour:255/0/0/255
+itemcooldown_enabled:true
+crosshair_rotation:0
+visible_holding_throwable_item:true
+highlight_hostile_colour:220/0/0/255
+visible_holding_ranged_weapon:true
+visible_debug:false
+visible_spectator:false
+visible_hiddengui:false
+crosshair_gap:0
+outline_colour:32/32/32/255
+rainbow_speed:500
+dynamic_attackindicator_enabled:false
+highlight_passive_colour:0/255/0/255
+crosshair_colour:255/255/255/255
+itemcooldown_colour:255/255/255/80
+highlight_players_enabled:true
+visible_thirdperson:false

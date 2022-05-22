@@ -1,0 +1,8 @@
+{
+  "easiervillagertrading.config.swapshift": {
+    "key": "Make \u0027trade all\u0027 default",
+    "toolTip": "easiervillagertrading.config.tt.swapshift",
+    "value": false,
+    "defaultValue": false
+  }
+}
