@@ -53,6 +53,9 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | ❌ | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
 | Freelook | [✔️](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric/files) | ❌ | [✔️](https://github.com/Celibistrial/freelook) | Allow to rotate your camera 360<sup>o</sup> [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | ToroHealth Damage Indicators | [✔️](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files) | ❌ | [✔️](https://github.com/ToroCraft/ToroHealth) | Adds player and mod health bars |
+| WorldEdit | [✔️](https://www.curseforge.com/minecraft/mc-mods/worldedit/files) | ❌ | [✔️](https://github.com/enginehub/WorldEdit) | Easier world editing<br />(Creative mode / Enable Cheats required) |
+| Xaero's Minimap | [✔️](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) | ❌ | ❌ | In-game minimap! |
+| Xaero's World Map | [✔️](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files) | ❌ | ❌ | Customizable world map |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -63,6 +66,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Held Item Info | [✔️](https://www.curseforge.com/minecraft/mc-mods/held-item-info/files) | ❌ | [✔️](https://github.com/A5b84/held-item-info/releases) | Displays item info when swapping them in the hotbar<br />(eg. enchantments) |
 | MidnightControls | [✔️](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols/files) | [✔️](https://modrinth.com/mod/midnightcontrols/versions) | [✔️](https://github.com/TeamMidnightDust/MidnightControls/releases) | Gamepad (controller) in-game support! |
 | PaperDoll | [✔️](https://www.curseforge.com/minecraft/mc-mods/paperdoll/files) | ❌ | [✔️](https://github.com/tr7zw/PaperDoll) | Adds a customizable paper doll |
+| Why Am I on Fire? | [✔️](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire/files) | [✔️](https://modrinth.com/mod/why-am-i-on-fire/versions) | [✔️](https://github.com/Ellivers/Why-Am-I-on-Fire/releases) | Hides the player fire overlay when<br />with fire resistance / on creative mode |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -78,6 +82,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | MiniHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/minihud/files) | ❌ | [✔️](https://github.com/maruohon/minihud) | Useful in-game HUD info |
 | Precise Block Placing | [✔️](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing/files) | ❌ | [✔️](https://github.com/Ellemes/PreciseBlockPlacing/releases) | More accurate 0 CPS block placing (**NOT A CHEAT**) [<sup>6</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Rainbow Shenanigans | [✔️](https://www.curseforge.com/minecraft/mc-mods/rainbow-shenanigans/files) | ❌ | [✔️](https://github.com/A5b84/rainbow-shenanigans/releases) | Sorts the colored wool by color |
+| WorldEdit CUI | [✔️](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files) | ❌ | [✔️](https://github.com/EngineHub/WorldEditCUI/releases) | Addon for WorldEdit, with in-game placement preview! |
 
 ## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
