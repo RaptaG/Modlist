@@ -18,7 +18,7 @@ There are 2 reasons for that:
 
 ### How do I install the mods?
 
-Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods), [GitHub](https://github.com/topics/fabric-mod)). Also, all the mods are intented to work in the latest version of the game (earlier versions are untested).
+Click the ✔️ from the installation website of your choice ([CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499&filter-sort=4), [Modrinth](https://modrinth.com/mods?e=client), [GitHub](https://github.com/topics/fabric-mod)). Also, all the mods are intented to work in the latest version of the game (earlier versions are untested).
 
 # Mods
 
@@ -32,7 +32,10 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Dynamic Surroundings | ❌ | ❌ | [✔️](https://github.com/ThexXTURBOXx/DynamicSurroundingsFabric) | Adds many cool visual,<br />and sound effects [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Easier Villager Trading | [✔️](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files) | [✔️](https://modrinth.com/mod/easiervillagertrading/versions) | [✔️](https://github.com/gbl/EasierVillagerTrading/releases) | 1 click trade with  villagers |
 | Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key |
-| Falling Leaves | [✔️](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric/files) | [✔️](https://modrinth.com/mod/fallingleaves/versions) | [✔️](https://github.com/RandomMcSomethin/fallingleaves) | Adds some small leaf particles, which fall from leaves! |
+| Falling Leaves | [✔️](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric/files) | [✔️](https://modrinth.com/mod/fallingleaves/versions) | [✔️](https://github.com/RandomMcSomethin/fallingleaves) | Adds some small leaf particles,<br />which fall from leaves! |
+| Minimal Menu | [✔️](https://www.curseforge.com/minecraft/mc-mods/minimal-menu/files) | ❌ | [✔️](https://github.com/TomB-134/MinimalMenu/releases) | Removes some useless buttons |
+| Not Enough Animations | [✔️](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files) | ❌ | [✔️](https://github.com/tr7zw/NotEnoughAnimations) | Many cool player animations! |
+| Precence Footsteps | [✔️](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps/files) | [✔️](https://modrinth.com/mod/presence-footsteps/versions) | [✔️](https://github.com/Sollace/Presence-Footsteps/releases) | Adds many more cool footstep sounds! |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -51,6 +54,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | EmoteCraft | [✔️](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) | [✔️](https://modrinth.com/mod/emotecraft/versions) | [✔️](https://github.com/KosmX/emotes/releases) | In-game emotes |
 | Fabulous Clouds | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabulous-clouds/files) | [✔️](https://modrinth.com/mod/fabulousclouds/versions) | [✔️](https://github.com/misterslime/fabulousclouds-fabric/releases) | Tinting clouds on sunrise/sunset and more! |
 | Held Item Info | [✔️](https://www.curseforge.com/minecraft/mc-mods/held-item-info/files) | ❌ | [✔️](https://github.com/A5b84/held-item-info/releases) | Displays item info when swapping them in the hotbar<br />(eg. enchantments) |
+| MidnightControls | [✔️](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols/files) | [✔️](https://modrinth.com/mod/midnightcontrols/versions) | [✔️](https://github.com/TeamMidnightDust/MidnightControls/releases) | Gamepad (controller) in-game support! |
+| PaperDoll | [✔️](https://www.curseforge.com/minecraft/mc-mods/paperdoll/files) | ❌ | [✔️](https://github.com/tr7zw/PaperDoll) | Adds a customizable paper doll |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -63,6 +68,9 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Custom Window Title | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-window-title/files) | ❌ | [✔️](https://github.com/chylex/Minecraft-Window-Title) | Allows you to change the title and<br />the icon of Minecraft's window |
 | Inventory HUD+ | [✔️](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files) | ❌ | ❌ | Displays inventory info in the HUD |
 | KronHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/kronhud/files) | [✔️](https://modrinth.com/mod/kronhud/versions) | [✔️](https://github.com/DarkKronicle/KronHUD) | Adds some info in the HUD, like Lunar Client! |
+| MiniHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/minihud/files) | ❌ | [✔️](https://github.com/maruohon/minihud) | Useful in-game HUD info |
+| Precise Block Placing | [✔️](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing/files) | ❌ | [✔️](https://github.com/Ellemes/PreciseBlockPlacing/releases) | More accurate 0 CPS block placing (**NOT A CHEAT**) [<sup>6</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Rainbow Shenanigans | [✔️](https://www.curseforge.com/minecraft/mc-mods/rainbow-shenanigans/files) | ❌ | [✔️](https://github.com/A5b84/rainbow-shenanigans/releases) | Sorts the colored wool by color |
 
 ## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -80,8 +88,8 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - **Always** select the Fabric version of each mod
 - Before downloading, **always** check if a mod requires a [library mod](https://github.com/RaptaG/Modlist#libraries--apis)
 - If one of these mods gets added in Fabulously Optimized, it'll be removed from this list
-- Some GitHub repositories may be outdated
-- Some GitHub mods may reqiure compilng their source code
+- Some GitHub repositories/releases may be outdated
+- Some GitHub repositories may reqiure compilng their source code
 - Some GitHub repositories may be closed source
 - Mods with notes will have a number with a link in the end
 
@@ -91,4 +99,5 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - Blur is **incompatible** with OptiFine Shaders
 - Chat Up **works** on all Minecraft versions
 - The link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
-- Using the Freelook mod may kick/ban you in some servers (eg. Hypixel)
+- Using the Freelook mod in some servers may get you kicked/banned (eg. Hypixel)
+- Precise Block Placing **is not** a cheat mod, the accurate placement takes places **only** on specific cases.<br />You can't eg. godbridge by just holding down the Right Click button with this mod.
