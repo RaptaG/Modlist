@@ -36,16 +36,23 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 | Minimal Menu | [✔️](https://www.curseforge.com/minecraft/mc-mods/minimal-menu/files) | ❌ | [✔️](https://github.com/TomB-134/MinimalMenu/releases) | Removes some useless buttons |
 | Not Enough Animations | [✔️](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files) | ❌ | [✔️](https://github.com/tr7zw/NotEnoughAnimations) | Many cool player animations! |
 | Precence Footsteps | [✔️](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps/files) | [✔️](https://modrinth.com/mod/presence-footsteps/versions) | [✔️](https://github.com/Sollace/Presence-Footsteps/releases) | Adds many more cool footstep sounds! |
+| Seamless Loading Screen | [✔️](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen/files) | [✔️](https://modrinth.com/mod/seamless-loading-screen/versions) | [✔️](https://github.com/Minenash/Seamless-Loading-Screen/releases) | Takes a screenshot of the last time you joined<br />a server/world and displays it when rejoining it! |
+| Simple Discord RPC | [✔️](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc/files) | [✔️](https://modrinth.com/mod/simple-discord-rpc/versions) | [✔️](https://github.com/hypherionmc/simple-rpc-public) | Adds a Discord Rich Presence, showing the<br />world/server you are in! |
+| 'Slight' GUI Modifications | [✔️](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications/files) | ❌ | [✔️](https://github.com/shedaniel/slight-gui-modifications) | Adds many GUI animations! |
+| Smooth Scrolling Everywhere | ❌ | ❌ | [✔️](https://github.com/UjhhgtgTeams/SmoothScrollingEverywhere) | Adds smooth scrolling in every Minecraft list [<sup>7</sup>](https://github.com/RaptaG/Modlist#mod-notes)|
+| Smooth Swapping | [✔️](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping/files) | [✔️](https://modrinth.com/mod/smooth-swapping/versions) | [✔️](https://github.com/Schauweg/Smooth-Swapping) | Adds smooth swapping when moving inventory items |
 
 ## New features
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
 | AppleSkin | [✔️](https://www.curseforge.com/minecraft/mc-mods/appleskin/files) | [✔️](https://modrinth.com/mod/appleskin/versions) | [✔️](https://github.com/squeek502/AppleSkin/releases) | Dispalys saturation, food points<br />and much more food-related info |
 | AutoSwitch | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch/files) | [✔️](https://modrinth.com/mod/autoswitch/versions)| [✔️](https://github.com/dexman545/Fabric-Autoswitch/releases) | Switches to the correct tool<br />to mine each block, from your hotbar |
-| Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more optionsin the "Key Bind" menu,<br />such as key searching |
+| Controlling | [✔️](https://www.curseforge.com/minecraft/mc-mods/controlling/files) | ❌ | [✔️](https://github.com/jaredlll08/Controlling) | Adds more options in the "Key Bind" menu,<br />such as key searching |
 | Enhanced Attack Indicator | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files) | [✔️](https://modrinth.com/mod/enhanced-attack-indicator/versions)| [✔️](https://github.com/Minenash/Enhanced-Attack-Indicator/releases) | Gives more functions to the attack indicator |
 | Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | ❌ | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
 | Freelook | [✔️](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric/files) | ❌ | [✔️](https://github.com/Celibistrial/freelook) | Allow to rotate your camera 360<sup>o</sup> [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| ToroHealth Damage Indicators | [✔️](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files) | ❌  [✔️](https://github.com/ToroCraft/ToroHealth) | Adds player and mod health bars |
+| Wavey Capes | [✔️](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | ❌ | [✔️](https://github.com/tr7zw/WaveyCapes) | Gravity capes! |
 
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
@@ -75,6 +82,7 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ## Libraries / APIs
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
+| Architectury API | [✔️](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) | ❌ | [✔️](https://github.com/architectury/architectury-api) | Required for 'Slight' GUI Modifications to work |
 | Cloth Config API | [✔️](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files) | [✔️](https://modrinth.com/mod/cloth-config/versions) | [✔️](https://github.com/shedaniel/cloth-config) | Needed  for configuring the mods in-game, with Mod Menu | 
 | Fabric API | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files) | [✔️](https://modrinth.com/mod/fabric-api/versions) | [✔️](https://github.com/FabricMC/fabric/releases) | The Fabric API, needed for almost every mod in this list to work |
 | Iceberg | [✔️](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric/files) | ❌ | [✔️](https://github.com/AHilyard/Iceberg) | Required for Advancement Plaques |
@@ -101,3 +109,4 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 - The link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
 - Using the Freelook mod in some servers may get you kicked/banned (eg. Hypixel)
 - Precise Block Placing **is not** a cheat mod, the accurate placement takes places **only** on specific cases.<br />You can't eg. godbridge by just holding down the Right Click button with this mod.
+- The link for Smooth Scrolling Everywhere is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/files) | [GitHub](https://github.com/shedaniel/SmoothScrollingEverywhere)**)
