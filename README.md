@@ -1,6 +1,8 @@
+<div align="center">
 # RaptaG's Modlist
 
 **[FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md) || [Credits](https://github.com/RaptaG/Modlist/blob/main/CREDITS.md) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/custom-configurations) || [Notes](https://github.com/RaptaG/Modlist#general)**
+<div align="left">
 
 ### What type of mods are these?
 
