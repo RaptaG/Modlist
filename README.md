@@ -5,6 +5,8 @@
 ### [FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md) || [Credits](https://github.com/RaptaG/Modlist/blob/main/CREDITS.md) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/custom-configurations) || [Notes](https://github.com/RaptaG/Modlist#general)
 <div align="left">
 
+# 1.19 UNTESTED-UNSUPPORTED YET
+
 ### What type of mods are these?
 
 The following mods are for Quality of Life improvements, tweaks to the vanilla game, mods that provide parity with Minecraft: Bedrock Edition and new features, all friendly to vanilla Minecraft's behaviour. Also, all of the mods are client-side, meaning they will work everywhere, even on servers!
