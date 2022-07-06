@@ -5,7 +5,6 @@
 ### [FAQ](https://github.com/RaptaG/Modlist/wiki/FAQ/) || [Screenshots](https://github.com/RaptaG/Modlist/blob/main/screenshots/SCREENSHOTS.md) || [Credits](https://github.com/RaptaG/Modlist/blob/main/CREDITS.md) || [Custom Configurations](https://github.com/RaptaG/Modlist/wiki/custom-configurations) || [Notes](https://github.com/RaptaG/Modlist#general)
 <div align="left">
 
-# 1.19 UNTESTED-UNSUPPORTED YET
 
 ### What type of mods are these?
 
@@ -64,13 +63,12 @@ Click the ✔️ from the installation website of your choice ([CurseForge](http
 ## Minecraft: Bedrock Edition parity mods
 | Name | CurseForge | Modrinth | GitHub | Description |
 |-|-|-|-|-|
-| Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click<br />your armour in your hotbar to equip it |
+| Armour Hotswap | [✔️](https://www.curseforge.com/minecraft/mc-mods/armor-hotswap/files) | ❌ | [✔️](https://github.com/kregerl/armorhotswap) | Gives you the ability to right click<br />your armour in your hotbar to equip it (no 1.19 yet) |
 | EmoteCraft | [✔️](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) | [✔️](https://modrinth.com/mod/emotecraft/versions) | [✔️](https://github.com/KosmX/emotes/releases) | In-game emotes |
-| Fabulous Clouds | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabulous-clouds/files) | [✔️](https://modrinth.com/mod/fabulousclouds/versions) | [✔️](https://github.com/misterslime/fabulousclouds-fabric/releases) | Tinting clouds on sunrise/sunset and more! |
+| Fabulous Clouds | [✔️](https://www.curseforge.com/minecraft/mc-mods/fabulous-clouds/files) | [✔️](https://modrinth.com/mod/fabulousclouds/versions) | [✔️](https://github.com/misterslime/fabulousclouds-fabric/releases) | Tinting clouds on sunrise/sunset and more! (no 1.19 yet) |
 | Held Item Info | [✔️](https://www.curseforge.com/minecraft/mc-mods/held-item-info/files) | ❌ | [✔️](https://github.com/A5b84/held-item-info/releases) | Displays item info when swapping them in the hotbar<br />(eg. enchantments) |
-| MidnightControls | [✔️](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols/files) | [✔️](https://modrinth.com/mod/midnightcontrols/versions) | [✔️](https://github.com/TeamMidnightDust/MidnightControls/releases) | Gamepad (controller) in-game support! |
 | PaperDoll | [✔️](https://www.curseforge.com/minecraft/mc-mods/paperdoll/files) | ❌ | [✔️](https://github.com/tr7zw/PaperDoll) | Adds a customizable paper doll |
-| Why Am I on Fire? | [✔️](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire/files) | [✔️](https://modrinth.com/mod/why-am-i-on-fire/versions) | [✔️](https://github.com/Ellivers/Why-Am-I-on-Fire/releases) | Hides the player fire overlay when<br />with fire resistance / on creative mode |
+| Why Am I on Fire? | [✔️](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire/files) | [✔️](https://modrinth.com/mod/why-am-i-on-fire/versions) | [✔️](https://github.com/Ellivers/Why-Am-I-on-Fire/releases) | Hides the player fire overlay when<br />with fire resistance / on creative mode (no 1.19 yet) |
 
 ## Tweaks
 | Name | CurseForge | Modrinth | GitHub | Description |
