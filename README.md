@@ -35,7 +35,7 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 | Blur | [✔️](https://www.curseforge.com/minecraft/mc-mods/blur-fabric/files) | [✔️](https://modrinth.com/mod/blur-fabric/versions) | [✔️](https://github.com/Motschen/Blur/releases) | Adds a background blur<br />behind the GUI's [<sup>2</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Custom Crosshair | [✔️](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files) | ❌ | ❌ | Allows you to customize<br />and give many abilities to your crosshair |
 | Easier Villager Trading | [✔️](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files) | [✔️](https://modrinth.com/mod/easiervillagertrading/versions) | [✔️](https://github.com/gbl/EasierVillagerTrading/releases) | 1 click trade with  villagers |
-| Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key |
+| Elytra/Chestplate Swapper | [✔️](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper/files) | ❌ | [✔️](https://github.com/Saphjyr/ElytraChestplateSwapper) | Swap your chestplate with your elytra<br />with a press of a key [<sup>3</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | Falling Leaves | [✔️](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric/files) | [✔️](https://modrinth.com/mod/fallingleaves/versions) | [✔️](https://github.com/RandomMcSomethin/fallingleaves) | Adds some small leaf particles,<br />which fall from leaves! |
 | Minimal Menu | [✔️](https://www.curseforge.com/minecraft/mc-mods/minimal-menu/files) | [✔️](https://modrinth.com/mod/minimalmenu/versions) | [✔️](https://github.com/TomB-134/MinimalMenu/releases) | Removes some useless buttons |
 | Not Enough Animations | [✔️](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/files) | [✔️](https://modrinth.com/mod/not-enough-animations/versions) | [✔️](https://github.com/tr7zw/NotEnoughAnimations) | Many cool player animations! |
@@ -55,7 +55,7 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 | Draggable Resource Packs | [✔️](https://www.curseforge.com/minecraft/mc-mods/draggable-resource-packs/files) | [✔️](https://modrinth.com/mod/draggable-resource-packs/versions) | [✔️](https://github.com/MrMelon54/draggable-resource-packs-fabric/releases) | Drag & move resource packs instead of<br />moving them with arrows |
 | Enhanced Attack Indicator | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files) | [✔️](https://modrinth.com/mod/enhanced-attack-indicator/versions)| [✔️](https://github.com/Minenash/Enhanced-Attack-Indicator/releases) | Gives more functions to the attack indicator |
 | Enhanced Searchability | [✔️](https://www.curseforge.com/minecraft/mc-mods/enhanced-searchability/files) | [✔️](https://modrinth.com/mod/enhanced-searchability/versions) | [✔️](https://github.com/MrMelon54/enhanced-searchability-fabric/releases) | Server and resource pack search bar |
-| Perspektive | [✔️](https://www.curseforge.com/minecraft/mc-mods/perspekive/files) | [✔️](https://modrinth.com/mod/perspektive/versions) | [✔️](https://github.com/r0yzer/perspektive) | Allows you to rotate your camera 360<sup>o</sup> [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Perspektive | [✔️](https://www.curseforge.com/minecraft/mc-mods/perspekive/files) | [✔️](https://modrinth.com/mod/perspektive/versions) | [✔️](https://github.com/r0yzer/perspektive) | Allows you to rotate your camera 360<sup>o</sup> [<sup>4</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | ToroHealth Damage Indicators | [✔️](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators/files) | ❌ | [✔️](https://github.com/ToroCraft/ToroHealth) | Adds player and mod health bars |
 | WorldEdit | [✔️](https://www.curseforge.com/minecraft/mc-mods/worldedit/files) | ❌ | [✔️](https://github.com/enginehub/WorldEdit) | Easier world editing<br />(Creative mode / Enable Cheats required) |
 | Xaero's Minimap | [✔️](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files) | ❌ | ❌ | In-game minimap! |
@@ -83,7 +83,7 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 | Inventory HUD+ | [✔️](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files) | ❌ | ❌ | Displays inventory info in the HUD |
 | KronHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/kronhud/files) | [✔️](https://modrinth.com/mod/kronhud/versions) | [✔️](https://github.com/DarkKronicle/KronHUD) | Adds some info in the HUD, like Lunar Client! |
 | MiniHUD | [✔️](https://www.curseforge.com/minecraft/mc-mods/minihud/files) | ❌ | [✔️](https://github.com/maruohon/minihud) | Useful in-game HUD info (no 1.19 yet) |
-| Precise Block Placing | [✔️](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing/files) | ❌ | [✔️](https://github.com/Ellemes/PreciseBlockPlacing/releases) | More accurate 0 CPS block placing (**NOT A CHEAT**) [<sup>6</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
+| Precise Block Placing | [✔️](https://www.curseforge.com/minecraft/mc-mods/preciseblockplacing/files) | ❌ | [✔️](https://github.com/Ellemes/PreciseBlockPlacing/releases) | More accurate 0 CPS block placing (**NOT A CHEAT**) [<sup>5</sup>](https://github.com/RaptaG/Modlist#mod-notes) |
 | WorldEdit CUI | [✔️](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files) | ❌ | [✔️](https://github.com/EngineHub/WorldEditCUI/releases) | Addon for WorldEdit, with in-game placement preview! |
 
 ## Libraries / APIs
@@ -112,10 +112,8 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 
 ### Mod notes
 
-- 3D Skin Layers is _slightly_ incompatible with EmoteCraft
+- 3D Skin Layers is **incompatible** with some EmoteCraft emotes
 - Blur is **incompatible** with OptiFine Shaders
-- Chat Up **works** on all Minecraft versions
-- The link for Dynamic Surroundings is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition/files) | [Modrinth](https://modrinth.com/mod/dynamicsurroundingsfabric/versions) | [GitHub](https://github.com/OreCruncher/DynamicSurroundingsFabric)**)
-- Using the Freelook mod in some servers may get you kicked/banned (eg. Hypixel)
+- Using Elytra/Chestplate Swapper can be considered as cheat in some servers and can possibly get you kicked or banned
+- Using Perspektive can be considered as cheat in some servers (eg. Hypixel) and can possibly get you kicked or banned
 - Precise Block Placing **is not** a cheat mod, the accurate placement takes places **only** on specific cases.<br />You can't eg. godbridge by just holding down the Right Click button with this mod.
-- The link for Smooth Scrolling Everywhere is a fork that provides support for 1.18.2<br />(Official links: **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/files) | [GitHub](https://github.com/shedaniel/SmoothScrollingEverywhere)**)
