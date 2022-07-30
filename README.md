@@ -102,9 +102,9 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 
 ### General
 
+- If a mod from this list gets added in Fabulously Optimized, it'll be removed from here (excluding Mod Menu and any library/API mod)
 - **Always** select the Fabric version of each mod
 - Before downloading, **always** check if a mod requires a [library mod](https://github.com/RaptaG/Modlist#libraries--apis)
-- If one of these mods gets added in Fabulously Optimized, it'll be removed from this list
 - Some GitHub repositories/releases may be outdated
 - Some GitHub repositories may reqiure compilng their source code
 - Some GitHub repositories may be closed source
@@ -116,4 +116,4 @@ Click the ✔️ from the installation website of your choice ([Modrinth](https:
 - Blur is **incompatible** with OptiFine Shaders
 - Using Elytra/Chestplate Swapper can be considered as cheat in some servers and can possibly get you kicked or banned
 - Using Perspektive can be considered as cheat in some servers (eg. Hypixel) and can possibly get you kicked or banned
-- Precise Block Placing **is not** a cheat mod, the accurate placement takes places **only** on specific cases.<br />You can't eg. godbridge by just holding down the Right Click button with this mod.
+- Precise Block Placing **is not** a cheat mod, the accurate placement takes places **only** on specific cases.<br />You can't (for example) godbridge by just holding down <kbd>Right Click</kbd> with this mod.
